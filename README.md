@@ -16,7 +16,7 @@ This project is a simple implementation of the classic Snake game where the play
 
 ## Demo
 
-[Link to Live Demo](#) *(Replace this with the actual link to your live demo)*
+[Link to Live Demo](https://snake-game-weld-two.vercel.app/) 
 
 ![Snake Game Screenshot](Screenshot.png) 
 

@@ -12,7 +12,7 @@ This project is a simple implementation of the classic Snake game where the play
 - Snake movement controlled by arrow keys
 - Food generation and scoring system
 - Game over when the snake collides with itself or the boundaries
-- Snake wraps around the screen borders instead of ending the game (optional feature)
+- Optional feature: Snake wraps around the screen borders instead of ending the game
 
 ## Demo
 
@@ -25,7 +25,7 @@ This project is a simple implementation of the classic Snake game where the play
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/Ritulkr/Snake-Game.git
    ```
 
 2. Open `index.html` in your web browser.
